@@ -315,6 +315,10 @@ sensor:modalias:acpi:KIOX000A*:dmi:*:svncube:pni8-T:*
 sensor:modalias:acpi:KIOX000A*:dmi:*:svnALLDOCUBE:pni1102:*
  ACCEL_MOUNT_MATRIX=-1, 0, 0; 0, 1, 0; 0, 0, 1
 
+# Cube KNote X Pro
+sensor:modalias:acpi:KIOX000A*:dmi:*:svnALLDOCUBE:pni1302S:*
+ ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
+
 #########################################
 # Cyberbook
 #########################################
